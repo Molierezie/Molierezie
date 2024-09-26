@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Typescript, GSAP, PostgreSQL & React always**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://moliere-portfoliov1.netlify.app)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://moliere-portfoliov1.netlify.app/)
 
 - 📫 How to reach me **molierezie@outlook.fr**
 
-- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1qk7xdF516W1OAqVBTGpEODNMYmbyyhFs/view?usp=sharing)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1oVXm6S2FNSQXfO0pwnCRRp9nwFzzqkSu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
