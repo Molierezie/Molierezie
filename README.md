@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moliere Zie 😁</h1>
 <h3 align="center">I'm currently looking for a work-study company to start my bachelor's degree in web and mobile application development.</h3>
 
-- 🌱 I’m currently learning **Typescript, GSAP, PostgreSQL & React always**
+- 🌱 I’m currently learning **NextJS, Typescript, PostgreSQL & React always**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://moliere-portfoliov1.netlify.app/)
 
